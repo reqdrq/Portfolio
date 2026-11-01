@@ -20,16 +20,14 @@
 
 | # | 프로젝트 | 기법 | 상태 |
 |:--:|---|---|:--:|
-| 01 | [게임 Starfield 스팀리뷰 분석](./01_%5B선형회귀%5D_보스턴_하우징/) | 로지스틱 회귀, KMeans군집분석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | 보험료 결정요인 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 03 | 다이아몬드 가격 예측 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 04 | 하우징 데이터셋 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 05 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 06 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 07 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 08 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 09 | (미정) | 머신러닝 · 군집 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 10 | (미정) | 머신러닝 · 분류 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 01 | [기말고사 성적 관련요인 분석](./01_[선형회귀]_기말고사_성적_관련요인_분석/) | 선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | [게임 Starfield 스팀리뷰 분석](./02_[로지스틱_군집분석]_게임_Starfield_스팀리뷰_분석/) | 로지스틱 회귀, KMeans군집분석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 03 | 보험료 결정요인 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 04 | 다이아몬드 가격 예측 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 05 | 하우징 데이터셋 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 06 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 07 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+
 
 **공통 모듈** — [`helpers/`](./helpers/)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
